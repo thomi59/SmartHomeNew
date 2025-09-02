@@ -6,7 +6,7 @@ from simple import MQTTClient
 from machine import Pin
 
 
-# Wi-Fi credentials
+# Wi-Fi credentials 
 SSID = 'Tom-Net-Main'
 #SSID = 'Tom-Net-UG'
 PASSWORD = 'Meerschweinchen?ZFT-2014'
